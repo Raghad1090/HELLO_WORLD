@@ -1,1 +1,5 @@
-# HELLO_WORLD
+fun main(){
+
+println("hello world")
+
+}
